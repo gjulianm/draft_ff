@@ -1,0 +1,1575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"searchengines"
+			],
+			[
+				"s",
+				"storage"
+			],
+			[
+				"form",
+				"formattedSearchUrl"
+			],
+			[
+				"sea",
+				"searchengines"
+			],
+			[
+				"url",
+				"urlbar"
+			],
+			[
+				"urlB",
+				"urlBar"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"Key",
+				"keyCode"
+			],
+			[
+				"mat",
+				"matchingLen"
+			],
+			[
+				"ma",
+				"bestMatch"
+			],
+			[
+				"LOG",
+				"LOG(x)	macro"
+			],
+			[
+				"SEM_M",
+				"SEM_MASTER_NOTIFIER	macro"
+			],
+			[
+				"semops",
+				"semops_void_op(semops *ops, int semnum)	void"
+			],
+			[
+				"sh",
+				"shared_mem	int *"
+			],
+			[
+				"SHM",
+				"SHM_HORSE_LENGTH	macro"
+			],
+			[
+				"SEM",
+				"SEM_MASTER_NOTIFIER	macro"
+			],
+			[
+				"sem",
+				"semnum	int"
+			],
+			[
+				"IPC_",
+				"IPC_NOWAIT	macro"
+			],
+			[
+				"SEM_ME",
+				"SEM_MEM_READ	macro"
+			],
+			[
+				"SEM_MEM",
+				"SEM_MEM_WRITE	macro"
+			],
+			[
+				"race_de",
+				"race_delete(race *rac)	void"
+			],
+			[
+				"arg",
+				"argv	char const *[]"
+			],
+			[
+				"op",
+				"op_state	int"
+			],
+			[
+				"SHM_",
+				"SHM_RACE_STATE	macro"
+			],
+			[
+				"rac",
+				"rac	race *"
+			],
+			[
+				"SHM_HO",
+				"SHM_HORSE_LENGTH	macro"
+			],
+			[
+				"RACE_",
+				"RACE_STARTING	macro"
+			],
+			[
+				"alam",
+				"alarm_fired	volatile sig_atomic_t"
+			],
+			[
+				"RACE",
+				"RACE_FINISHED	macro"
+			],
+			[
+				"SH",
+				"SHM_HORSE_LENGTH	macro"
+			],
+			[
+				"SEM_",
+				"SEM_MEM_WRITE	macro"
+			],
+			[
+				"race",
+				"race_state	int"
+			],
+			[
+				"RACE_ST",
+				"RACE_STARTING	macro"
+			],
+			[
+				"new",
+				"newposition	int"
+			],
+			[
+				"old",
+				"oldposition	int"
+			],
+			[
+				"_semop",
+				"_semops_add_op(semops *ops, int semnum, int op)	void"
+			],
+			[
+				"semop",
+				"semops	typedef"
+			],
+			[
+				"run",
+				"running_horses	int"
+			],
+			[
+				"ala",
+				"alarm_fired	volatile sig_atomic_t"
+			],
+			[
+				"ITIM",
+				"ITIMER_REAL	macro"
+			],
+			[
+				"t",
+				"tv_sec	__darwin_time_t"
+			],
+			[
+				"shm",
+				"shm_size	int"
+			],
+			[
+				"IPC",
+				"IPC_CREAT	macro"
+			],
+			[
+				"srand",
+				"srandom(unsigned int)	void"
+			],
+			[
+				"rand",
+				"random()	long"
+			],
+			[
+				"SET",
+				"SETVAL	macro"
+			],
+			[
+				"spr",
+				"sprintf(char *restrict, const char *restrict, ...)	int"
+			],
+			[
+				"proc_k",
+				"proc_kill(pid_t pid, int sigterm_first)	void"
+			],
+			[
+				"bpi",
+				"bpipe_close(int *bp)	int"
+			],
+			[
+				"proclist",
+				"proclist_set_status(pid_t pid, int status)	void"
+			],
+			[
+				"kill",
+				"kill(pid_t, int)	int"
+			],
+			[
+				"PROC",
+				"PROC_DEAD	macro"
+			],
+			[
+				"p",
+				"procs	proc_info *"
+			],
+			[
+				"procli",
+				"proclist_set_status(pid_t pid, int status)	void"
+			],
+			[
+				"bpip",
+				"bpipe_can_read(bpipe *bp)	int"
+			],
+			[
+				"us",
+				"usleep(useconds_t)	int"
+			],
+			[
+				"SIGST",
+				"SIGSTOP	macro"
+			],
+			[
+				"sigem",
+				"sigemptyset	macro"
+			],
+			[
+				"race_",
+				"race_start(race *rac)	int"
+			],
+			[
+				"racer",
+				"race_init(int horses, int length)	race *"
+			],
+			[
+				"proc_",
+				"proc_killall()	void"
+			],
+			[
+				"_race",
+				"_race_get_horse_position(race *rac, int horse)	int"
+			],
+			[
+				"proc_cle",
+				"proclist_clear()	void"
+			],
+			[
+				"_ra",
+				"_race_set_positions(race *rac)	void"
+			],
+			[
+				"SIGUS",
+				"SIGUSR1	macro"
+			],
+			[
+				"CHIL",
+				"CHILDREN_RESPONSE_TIMEOUT	macro"
+			],
+			[
+				"proc",
+				"proc_create_multiple(proc_info *list, proc_entrypoint entry, int num)	int"
+			],
+			[
+				"pro",
+				"proc_info	typedef"
+			],
+			[
+				"SIGA",
+				"SIGALRM	macro"
+			],
+			[
+				"CHI",
+				"CHILD_ACK_WAIT	int"
+			],
+			[
+				"in",
+				"interval	struct itimerval"
+			],
+			[
+				"it_",
+				"it_value	struct timeval"
+			],
+			[
+				"sigaddset",
+				"sigaddset(sigset_t *, int)	int"
+			],
+			[
+				"len",
+				"length	int"
+			],
+			[
+				"leng",
+				"length	int"
+			],
+			[
+				"SIGUSR",
+				"SIGUSR1	macro"
+			],
+			[
+				"sigis",
+				"sigismember(const sigset_t *, int)	int"
+			],
+			[
+				"pid_",
+				"pid_list	pid_t[]"
+			],
+			[
+				"pos",
+				"positions	int*"
+			],
+			[
+				"SIGU",
+				"SIGUSR1	macro"
+			],
+			[
+				"parent",
+				"parent_ack"
+			],
+			[
+				"CHILD",
+				"CHILD_MAX_ACK_RETRIES	macro"
+			],
+			[
+				"pa",
+				"parent_ack	volatile sig_atomic_t"
+			],
+			[
+				"Clo",
+				"CLOCKS_PER_SEC"
+			],
+			[
+				"se",
+				"sec_timeout"
+			],
+			[
+				"max",
+				"max_time"
+			],
+			[
+				"FD_SET",
+				"FD_SET(n, p)	macro"
+			],
+			[
+				"kil",
+				"kill_all_procs()	void"
+			],
+			[
+				"procl",
+				"proclist_get_all_procs(pid_t *list, int max)	int"
+			],
+			[
+				"pid",
+				"pid_list	pid_t[]"
+			],
+			[
+				"strtol",
+				"strtol(const char *, char **, int)	long"
+			],
+			[
+				"bpipe",
+				"bpipe_can_read(bpipe *bp)	int"
+			],
+			[
+				"prof",
+				"proc_info	typedef"
+			],
+			[
+				"register_",
+				"register_signal(int sig, sigaction_handler handler)	int"
+			],
+			[
+				"sig",
+				"sigaction_handler	typedef"
+			],
+			[
+				"__sig",
+				"__siginfo	struct"
+			],
+			[
+				"sa_",
+				"sa_sigaction	macro"
+			],
+			[
+				"__sa",
+				"__sigaction	struct"
+			],
+			[
+				"PROC_",
+				"PROC_WAITING_RESPONSE	macro"
+			],
+			[
+				"proclist_",
+				"proclit_get_next_with_status(int status, pid_t previous)	pid_t"
+			],
+			[
+				"proclist_set",
+				"proclist_set_status(pid_t pid, int status)	void"
+			],
+			[
+				"siga",
+				"sigaction(int, const struct sigaction *restrict, struct sigaction *restrict)	int"
+			],
+			[
+				"SIGB",
+				"SIG_UNBLOCK	macro"
+			],
+			[
+				"cloc",
+				"clock()	clock_t"
+			],
+			[
+				"clo",
+				"clock_t	typedef"
+			],
+			[
+				"clock",
+				"clock_t	typedef"
+			],
+			[
+				"buf",
+				"buf_size	int"
+			],
+			[
+				"bp",
+				"bpipe	typedef"
+			],
+			[
+				"MAX",
+				"MAX_WRITE_BUFFER	macro"
+			],
+			[
+				"_get",
+				"_get_position(int *positions, int horse)	int"
+			],
+			[
+				"min",
+				"minpos	int"
+			],
+			[
+				"close",
+				"close_pipe(int *pipe)	int"
+			],
+			[
+				"getp",
+				"getpid()	pid_t"
+			],
+			[
+				"PIN",
+				"PING_INSTANCES	int"
+			],
+			[
+				"PI",
+				"PING_INSTANCES	int"
+			],
+			[
+				"PING",
+				"PING_INSTANCES	macro"
+			],
+			[
+				"send",
+				"send_signal(int signal, pid_t *childs)	int"
+			],
+			[
+				"ffl",
+				"fflush(FILE *)	int"
+			],
+			[
+				"re",
+				"retval	int"
+			],
+			[
+				"sigset",
+				"sigset_t	typedef"
+			],
+			[
+				"EX",
+				"EXEC_NUM	macro"
+			],
+			[
+				"SIG",
+				"SIGCONT	macro"
+			],
+			[
+				"Trace",
+				"TraceInformation"
+			],
+			[
+				"Time",
+				"TimeWaitToReconnect"
+			],
+			[
+				"Strea",
+				"StreamingStarted"
+			],
+			[
+				"Streaming",
+				"StreamingStarted"
+			],
+			[
+				"recon",
+				"reconnectWaitHandle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"asty",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"asy",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"as",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"ast",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"mer",
+				"Sublimerge: View Diff"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"filedi",
+				"FileDiffs: Menu"
+			],
+			[
+				"subli",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"sub",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"debu",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"stop",
+				"SublimeGDB: Stop Debugging"
+			],
+			[
+				"Sub",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gjulianm/Dev/tabtosearch/tabtosearch.sublime-project",
+		"/Users/gjulianm/Dev/tabtosearch/lib/main.js",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/PADSOF/PADSOF/Padsof/utils/ViajesOrganizados.csv",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P2/final/Makefile",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/G2213_P01_1 2/final/src/child.",
+		"/Users/gjulianm/Library/Application Support/Sublime Text 2/Packages/SublimeClang/clang/include/limits.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/G2213_P01_1 2/final/src/race.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P2/final/final.sublime-project",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/final/src/race.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/final/src/sem.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/programa15.c",
+		"/Users/gjulianm/Library/Application Support/Sublime Text 2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/G2213_P01_1 2.zip",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/programa10",
+		"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/programa4.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/ADSOF/P3/p3_eclipse/txt/test.pert",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/ADSOF/P3/p3_eclipse/txt/test.out",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/ejercicio1.c",
+		"/Users/gjulianm/Dev/mkt/main.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/child.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/Makefile",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/settings.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/pipes.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/race.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/main.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/proclist.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/procs.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/procs.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/race.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/proclist.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/pipes.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/child.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/race.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/settings.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/AALG/P1/ordenar.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa17_B.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/settings.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/dictionary.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/src/dictionary.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa18.c",
+		"/usr/include/limits.h",
+		"/usr/include/machine/limits.h",
+		"/usr/include/i386/limits.h",
+		"/usr/include/sys/cdefs.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/caballos.sublime-project",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa17_A.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa21.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa22.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa23.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/pipes.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/final/pipes.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/Makefile",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/caballos.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa23",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa15.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa14.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa13.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa12.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/programa11.c",
+		"/Users/gjulianm/Dropbox/Ocell.Azure/Library/Extensions/StringBuilderExtension.cs",
+		"/Users/gjulianm/Dropbox/Ocell.Azure/Library/Extensions/StreamExtensions.cs",
+		"/Users/gjulianm/Dropbox/Ocell.Azure/Ocell.Azure.Library.Tests/StreamExtensionTest.cs",
+		"/usr/bin/cexec",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/errno.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/SOPER/P1/cexec",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/ADSOF/P1/programa1.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/ADSOF/P1/Apartado3.java",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/PADSOF/rime.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/PADSOF/padsof.sublime-project",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/PADSOF/.gitignore",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C2/Practicas/PADSOF/padsof.sublime-workspace",
+		"/Users/gjulianm/Dev/snake/.gitignore",
+		"/Users/gjulianm/Dev/snake/src/BasicSnake.cpp",
+		"/Users/gjulianm/Dev/snake/Makefile",
+		"/Users/gjulianm/Library/Application Support/Sublime Text 2/Packages/User/ifndef.sublime-snippet",
+		"/Users/gjulianm/Dev/snake/src/snake.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/Tutorial_Laboratorio.map",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/Tutorial_Calle.space",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/blog",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/character.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/combat.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/logs/game.log",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/fileparser.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/test2.points",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/npc/OrcoCazador.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/start.config",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/start.space",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/ArmaggedonComunista_Inicio.ascii",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/ArmaggedonNazi_Round.ascii",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/Tutorial_Calle.points",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/Tutorial_Calle.space",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/errors.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/Tutorial_Calle.map",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/game_exec",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/space.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/interface.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/interface.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/textmap.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/test.map",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/logs/valgrind.log",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/Orco.txt",
+		"/Users/gjulianm/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/gjulianm/Library/Application Support/Sublime Text 2/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/character.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/Espartacus.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/Gladiador.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoCazador.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoJefe.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoGuerrero.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/Orco.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/Orco.txt~",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoCazador.txt~",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/combat.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/conversation.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/world.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/commands.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoGuerrero.txt~",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/cmb/OrcoJefe.txt~",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/main.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/commands.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/world.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/scwindow.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/maps/test.space",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/config/OrcoCazador.txt",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/strings.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/textwindow.c",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/strings.h",
+		"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG/src/scwindow.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gjulianm/Dropbox/Universidad/1213 C1/Practicas/PPROG"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SEM",
+			"notify_horses_ops",
+			"printf",
+			"_main_capturer",
+			"mask",
+			"min",
+			"positions",
+			"_kill_waiting_procs",
+			"_kill_remaining_procs",
+			"pipe",
+			"Pipe",
+			"pipe",
+			"INT",
+			"INT_MIN",
+			"lastWait",
+			"super_pid",
+			"BASICSNAKE_H",
+			"GUARD",
+			"contador",
+			"CFLAGS",
+			"GCC",
+			"(null)",
+			"33",
+			"bg43fg33",
+			"FG_DEFAULT",
+			"BG_DEFAULT",
+			"	",
+			"\\n",
+			"bol",
+			"nose",
+			"cmd_associate",
+			"FG_DEFAULT",
+			"BG_DEFAULT",
+			"height",
+			"MAP_Y",
+			"MAP_X",
+			"_check_bounds",
+			"        tm->map[x][y].bg_color, \n        tm->map[x][y].fg_color, \n        tm->map[x][y].symbol);\n",
+			"x][y].bg_color, \n        tm->map[x][y].fg_color, \n        tm->map[",
+			"FATAL",
+			"abort",
+			"return BAD_FMT;",
+			"int",
+			"pa",
+			"point",
+			"int",
+			"space",
+			"dic",
+			"1 bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ bg43fg30_ END",
+			"SIZE_COLUMNS",
+			"SIZE_ROWS",
+			"lenght",
+			"int_destructor",
+			"_int",
+			"rows",
+			"objeto",
+			"mapwindow",
+			"textmap",
+			"textmap_load",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"textmap_load",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"TEXTMAP",
+			"textmap",
+			"TEXTMAP",
+			"new",
+			"custom",
+			"get_setting",
+			"inferior",
+			"spl",
+			"split",
+			"str_subs",
+			"move",
+			"load",
+			"pt",
+			"SYMBOL",
+			"split",
+			"spli",
+			"spl",
+			"split",
+			"token",
+			"print",
+			"list_aux",
+			"dic_new",
+			"pos",
+			"sp->map",
+			"CH",
+			"parse_file_to_fields",
+			"add",
+			"ret",
+			"dic_look",
+			"points",
+			"points_",
+			"awake",
+			"SystemError",
+			"Error",
+			"error",
+			"Error",
+			"error",
+			"ERROR",
+			"error",
+			"Error",
+			"error",
+			"ERROR",
+			"error",
+			"a",
+			" ",
+			"}\n",
+			"panel",
+			"strsep",
+			"%d",
+			"--",
+			"\\n",
+			"/n",
+			" \\n ",
+			"\\n ",
+			"\\n",
+			"2008\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"30",
+			"LOG_MESSAGE(\"BAD_FMT here\"); return BAD_FMT;",
+			"LOG_MESSAGE(\"BAD_FMT here\"); return BAD_FMT",
+			"free",
+			"int",
+			"",
+			"\\n --",
+			"$3-$2-$1",
+			"\\g3-\\g2-\\g1",
+			"columns"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 97.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"lib/main.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"s",
+				"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/final/src/signals.c"
+			],
+			[
+				"sem",
+				"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/final/src/sem.h"
+			],
+			[
+				"sem.",
+				"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/final/src/sem.c"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"m",
+				"Makefile"
+			],
+			[
+				"programa15",
+				"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/programa15.c"
+			],
+			[
+				"progra",
+				"/Users/gjulianm/Dropbox/Universidad/1213 c2/practicas/soper/P2/programa10.c"
+			],
+			[
+				"pro",
+				"src/procs.c"
+			],
+			[
+				"proc",
+				"src/procs.c"
+			],
+			[
+				"set",
+				"src/settings.h"
+			],
+			[
+				"chi",
+				"src/child.c"
+			],
+			[
+				"procs",
+				"src/procs.h"
+			],
+			[
+				"",
+				"src/proclist.h"
+			],
+			[
+				"race.",
+				"src/race.c"
+			],
+			[
+				"race",
+				"src/race.h"
+			],
+			[
+				"se",
+				"src/settings.h"
+			],
+			[
+				"chil",
+				"src/child.c"
+			],
+			[
+				"rac",
+				"src/race.c"
+			],
+			[
+				"pip",
+				"src/pipes.h"
+			],
+			[
+				"procs.c",
+				"src/procs.c"
+			],
+			[
+				"ra",
+				"src/race.h"
+			],
+			[
+				"di",
+				"src/dictionary.h"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"pi",
+				"src/pipes.h"
+			],
+			[
+				"a",
+				"Apartado5_Pruebas.txt"
+			],
+			[
+				"apa",
+				"Apartado5_Pruebas.txt"
+			],
+			[
+				"aparta",
+				"Apartado4.java"
+			],
+			[
+				".",
+				".gitignore"
+			],
+			[
+				"basi",
+				"src/BasicSnake.cpp"
+			],
+			[
+				"b",
+				"src/BasicSnake.cpp"
+			],
+			[
+				"base",
+				"src/base_snake.cpp"
+			],
+			[
+				"bo",
+				"src/board.cpp"
+			],
+			[
+				"snake",
+				"src/BasicSnake.cpp"
+			],
+			[
+				"bak",
+				"src/base_snake.cpp"
+			],
+			[
+				"win",
+				"src/scwindow.cpp"
+			],
+			[
+				"sn",
+				"src/base_snake.cpp"
+			],
+			[
+				"po",
+				"src/point.h"
+			],
+			[
+				"bas",
+				"src/base_snake.cpp"
+			],
+			[
+				"ba",
+				"src/base_snake.h"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"sc",
+				"src/scwindow.h"
+			],
+			[
+				"boar",
+				"src/board.cpp"
+			],
+			[
+				"comm",
+				"src/commands.c"
+			],
+			[
+				"ac",
+				"config/actions"
+			],
+			[
+				"in",
+				"src/interface.c"
+			],
+			[
+				"i",
+				"src/interface.h"
+			],
+			[
+				"com",
+				"src/commands.c"
+			],
+			[
+				"perro",
+				"config/npc/Perro.txt"
+			],
+			[
+				"char",
+				"src/character.c"
+			],
+			[
+				"obj",
+				"src/object.c"
+			],
+			[
+				"wol",
+				"src/world.c"
+			],
+			[
+				"game.",
+				"logs/game.log"
+			],
+			[
+				"acio",
+				"config/actions"
+			],
+			[
+				"erro",
+				"src/errors.h"
+			],
+			[
+				"action",
+				"config/actions"
+			],
+			[
+				"game",
+				"logs/game.log"
+			],
+			[
+				"tutorial_habi",
+				"config/maps/Tutorial_Habitacion.map"
+			],
+			[
+				"tutorial_sal",
+				"config/maps/Tutorial_Salon.space"
+			],
+			[
+				"tutorial_h",
+				"config/maps/Tutorial_Habitacion.ascii"
+			],
+			[
+				"map",
+				"config/creators/mapgenerator.c"
+			],
+			[
+				"tutorial_ha",
+				"config/maps/Tutorial_Habitacion.ascii"
+			],
+			[
+				"or",
+				"Ordenacion de NPCs en los mapas.txt"
+			],
+			[
+				"tutorial_rom",
+				"config/Tutorial_Room1.points"
+			],
+			[
+				"tutorial_ro",
+				"config/maps/Tutorial_Laboratorio.map"
+			],
+			[
+				"con",
+				"src/conversation.c"
+			],
+			[
+				"tutorial_lab",
+				"config/maps/Tutorial_Laboratorio.map"
+			],
+			[
+				"tutorial_sa",
+				"config/maps/Tutorial_Salon.map"
+			],
+			[
+				"tutorial_salon",
+				"config/maps/Tutorial_Salon.map"
+			],
+			[
+				"wo",
+				"src/world.c"
+			],
+			[
+				"dic",
+				"src/dictionary.c"
+			],
+			[
+				"space",
+				"src/space.c"
+			],
+			[
+				"worl",
+				"src/world.c"
+			],
+			[
+				"spa",
+				"src/space.c"
+			],
+			[
+				"gam",
+				"logs/game.log"
+			],
+			[
+				"log",
+				"src/log.h"
+			],
+			[
+				"tutorial_s",
+				"config/maps/Tutorial_Salon.space"
+			],
+			[
+				"wor",
+				"src/world.c"
+			],
+			[
+				"sp",
+				"src/space.c"
+			],
+			[
+				"w",
+				"src/world.c"
+			],
+			[
+				"tutorial_cal",
+				"config/maps/Tutorial_Calle.map"
+			],
+			[
+				"tutorial",
+				"Tutorial_Calle.space"
+			],
+			[
+				"tu",
+				"config/maps/Tutorial_Laboratorio.space"
+			],
+			[
+				"tut",
+				"config/maps/Tutorial_Laboratorio.ascii"
+			],
+			[
+				"tutorial_labo",
+				"config/maps/Tutorial_Laboratorio.space"
+			],
+			[
+				"t",
+				"src/textwindow.c"
+			],
+			[
+				"te",
+				"src/textwindow.h"
+			],
+			[
+				"mapge",
+				"config/creators/mapgenerator.c"
+			],
+			[
+				"labo",
+				"config/maps/Tutorial_Laboratorio.space"
+			],
+			[
+				"combat",
+				"src/combat.c"
+			],
+			[
+				"tutoria",
+				"config/maps/Tutorial_Calle.space"
+			],
+			[
+				"tutorial_",
+				"config/maps/Tutorial_Calle.ascii"
+			],
+			[
+				"config",
+				"config/start.config"
+			],
+			[
+				"mapgen",
+				"config/creators/mapgenerator.c"
+			],
+			[
+				"mapwin",
+				"src/mapwindow.c"
+			],
+			[
+				"tutorial_ca",
+				"config/maps/Tutorial_Calle.points"
+			],
+			[
+				"tutorialc",
+				"config/maps/Tutorial_Calle.map"
+			],
+			[
+				"start",
+				"config/start.config"
+			],
+			[
+				"inter",
+				"src/interface.h"
+			],
+			[
+				"int",
+				"src/interface.c"
+			],
+			[
+				"io",
+				"src/io.c"
+			],
+			[
+				"conf",
+				"config/start.config"
+			],
+			[
+				".map",
+				"config/maps/test.map"
+			],
+			[
+				"ga",
+				"logs/game.log"
+			],
+			[
+				"tex",
+				"src/textmap.h"
+			],
+			[
+				"inte",
+				"src/interface.c"
+			],
+			[
+				"fil",
+				"src/fileparser.c"
+			],
+			[
+				"spac",
+				"src/space.c"
+			],
+			[
+				"gae",
+				"logs/game.log"
+			],
+			[
+				"err",
+				"src/errors.h"
+			],
+			[
+				"armagged",
+				"config/maps/ArmaggedonNazi_Round.ascii"
+			],
+			[
+				"armag",
+				"config/maps/ArmaggedonComunista_Inicio.ascii"
+			],
+			[
+				"bl",
+				"blog"
+			],
+			[
+				"val",
+				"logs/valgrind.log"
+			],
+			[
+				"star",
+				"config/start.config"
+			],
+			[
+				"orcoc",
+				"config/npc/OrcoCazador.txt"
+			],
+			[
+				"test2",
+				"config/maps/test2.points"
+			],
+			[
+				"file",
+				"src/fileparser.c"
+			],
+			[
+				"orco",
+				"config/cmb/Orco.txt"
+			],
+			[
+				"espa",
+				"config/cmb/Espartacus.txt"
+			],
+			[
+				"cmb",
+				"config/cmb/Orco.txt"
+			],
+			[
+				"conve",
+				"src/conversation.c"
+			],
+			[
+				"ch",
+				"src/character.c"
+			],
+			[
+				"acti",
+				"config/actions"
+			],
+			[
+				"actio",
+				"config/actions"
+			],
+			[
+				"game.l",
+				"logs/game.log"
+			],
+			[
+				"blo",
+				"blog"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
