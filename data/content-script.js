@@ -47,7 +47,6 @@ function setCurrentValue(document, data, includeBody) {
 }
 
 self.port.on('getCurrentValue', function(data) {
-  console.log('msg!');
   var currentValue = getCurrentValue(document);
   self.port.emit('getCurrentValueResp', currentValue);
 });
