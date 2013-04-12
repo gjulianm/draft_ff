@@ -1,9 +1,9 @@
 {
   "name": "draft_ff",
-  "fullName": "draft_ff",
+  "fullName": "Draft for Firefox",
   "id": "jid1-lDbASBqP29ANeA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Turns any textarea on the web into something you can write and edit with Draft.",
+  "author": "Guillermo Julián",
   "license": "MPL 2.0",
   "version": "0.1"
 }
